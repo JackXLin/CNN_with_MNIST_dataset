@@ -13,6 +13,9 @@ To run this project with CPU only, you need the following dependencies installed
     TensorFlow
     NumPy
     Matplotlib
+    Sklearn
+    io
+    itertools
 
 To run this project with compatible GPU natively on Windows, you need the following dependencies installed:
 
@@ -22,6 +25,9 @@ To run this project with compatible GPU natively on Windows, you need the follow
     Cudnn 8.1.0
     NumPy
     Matplotlib
+    Sklearn
+    io
+    itertools
 
 ## Results
 
