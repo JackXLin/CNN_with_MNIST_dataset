@@ -7,14 +7,14 @@ This project demonstrates how to implement a Convolutional Neural Network (CNN) 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Notebook Content](#notebook-content)
-- [Results](#results)
-- [Contributing](#contributing)
-- [Licence](#licence)
+- [Convolutional Neural Network (CNN) on MNIST Dataset](#convolutional-neural-network-cnn-on-mnist-dataset)
+  - [Objective](#objective)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Requirements](#requirements)
+  - [Usage](#usage)
+  - [Notebook Content](#notebook-content)
+  - [Results](#results)
 
 ## Introduction
 
@@ -43,22 +43,6 @@ To run this project with a compatible GPU natively on Windows, you need the foll
 - Scikit-learn
 - io
 - itertools
-
-## Installation
-
-To run the notebook, you need to have Python and the following packages installed:
-
-- TensorFlow
-- TensorFlow Datasets
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-You can install the required packages using the following command:
-
-```bash
-pip install tensorflow tensorflow-datasets numpy matplotlib scikit-learn
-```
 
 ## Usage
 
